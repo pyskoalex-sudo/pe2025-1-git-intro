@@ -1,0 +1,7 @@
+#Ignore all hidden files
+.*
+
+
+
+#Ignire lidden files except .gitignore
+!.gitignore
